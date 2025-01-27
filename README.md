@@ -1,0 +1,2 @@
+# nodehelper
+FreedomCoin Patriotnode Manager
