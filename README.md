@@ -1,7 +1,7 @@
 # nodehelper
-**FreedomCoin Patriotnode Manager<br>**
+***FreedomCoin Patriotnode Manager<br>***
 
-This is a gui for managing tasks of patriot nodes<br>
+**This is a gui for managing tasks of patriot nodes<br>**
 Full management tools with features as follows:<br>
 Install new patriotnode<br>
 Manage existing patriot nodes<br>
